@@ -13,6 +13,9 @@ class App extends React.Component {
   async componentDidMount() {
     if (await StoreReview.hasAction()) {
       StoreReview.requestReview()
+      console.log("StoreReview.hasAction is TRUE");
+    } else {
+      console.log("StoreReview.hasAction is FALSE!");
     }
   }
 
