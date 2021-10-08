@@ -1,4 +1,4 @@
-package com.expostorereviewapp;
+package blog.topherpedersen.cybersurf;
 
 import com.facebook.react.ReactActivity;
 

@@ -1,4 +1,10 @@
 {
   "name": "ExpoStoreReviewApp",
-  "displayName": "ExpoStoreReviewApp"
+  "displayName": "ExpoStoreReviewApp",
+  "ios": {
+    "appStoreUrl": "https://topherpedersen.blog"
+  },
+  "android": {
+    "playStoreUrl": "https://topherpedersen.blog"
+  }
 }

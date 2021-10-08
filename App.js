@@ -15,7 +15,7 @@ class App extends React.Component {
       StoreReview.requestReview()
       console.log("StoreReview.hasAction is TRUE");
     } else {
-      console.log("StoreReview.hasAction is FALSE!");
+      alert("StoreReview.hasAction is FALSE!");
     }
   }
 

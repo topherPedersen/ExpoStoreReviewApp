@@ -1,4 +1,4 @@
-package com.expostorereviewapp.generated;
+package blog.topherpedersen.cybersurf.generated;
 
 import java.util.Arrays;
 import java.util.List;
